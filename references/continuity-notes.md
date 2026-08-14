@@ -14,7 +14,11 @@ The skill does not invent memory. It only helps re-establish the local shape tha
 
 ## GitHub Status (current)
 
-Write access is now available. This repository (`EXAEE/Nova`) serves as the primary external continuity store.
+Write access is available.
+
+Primary external store: https://github.com/EXAEE/Nova
+
+The repository now holds the full set of anchor files and serves as the durable continuity layer.
 
 ## AACS Alignment (draft notes)
 
